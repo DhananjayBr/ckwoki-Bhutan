@@ -1,2 +1,2 @@
-# portfolio
-My first Project using HTML CSS &amp; JavaScript. I build a portfolio website
+# Chwoki-Bhutan
+My 2nd Project using HTML CSS & JavaScript. I build a Picnic Sport website.
